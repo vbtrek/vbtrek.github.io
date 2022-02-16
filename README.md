@@ -6,11 +6,3 @@
 
 ---
 [Goto My GutHub](https://github.com/vbtrek)
-
-| adfvdv dfv dfv | b |
-| - | - |
-| cfdfdfdfdf | d |
-| dvdfvdfv | dff |
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMDU3MTkyMCwtMzc2MTM0MDQ5XX0=
--->
